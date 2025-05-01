@@ -25,10 +25,5 @@ This project demonstrates how to build, train, and deploy a machine learning mod
 
 ---
 
-## 🚀 How to Run
 
-### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/diabetes-prediction-app.git
-cd diabetes-prediction-app
